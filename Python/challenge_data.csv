@@ -1,12 +1,11 @@
 Problem Name,Content
-Residual Stress Measurement Of Steel Strips,We are looking for a non-destructive method to accurately determine or measure the inherent residual stress in a steel strip surface
-Flame Ignition In Flare Stacks,"We are looking for a reliable flame detection system, which can send an alarm as soon as flames is put-off and remains reliable at the ambience at the top of Flare Stack."
-Chimney Inspection And Maintenance,Chimney inspection and maintenance poses challenges because of the temperature and heights. We are looking for non-invasive method for inspection of chimneys in a quantitative manner and its maintenance
-Alternate Mining Technology - Steep Gradient Mining,Develop an alternate mining technology to produce ores at lesser cost from 120m deep opencast mine.
-Silt Removal from open-cast chromite mine,Develop an innovative mechanism to improve the efficiency of silt removal from open-cast mines.
-Eliminating remnant coal in wagons after tippling at coal wagon tipplers,Solutions are sought to recover remnant coal in wagons post tippling
-Arresting  Rail Track Foundation Settlement,Solutions are sought to ensure smooth coke oven battery operation by arresting settlement of track foundation
-Prevention and protection of Steel Structures from extreme levels of corrosion,Solutions are sought to protect steel structures from extreme levels of corrosion in order to improve structural integrity. 
-On time communication system to monitor the gap formed between main rail and switch rail,We are looking for innovative solutions for real-time assessment of the gap between main rail and switch rail.
-Inspection and condition monitoring of insulated chiller water pipe lines,We are looking for innovative solutions to check the condition of chiller water pipelines.
-Automated recording and communication of power consumption (kWh) in analog energy meters,We are looking for solutions to automate the process of manual readings and bill generation in existing analog energy meters.
+Residual Stress Measurement Of Steel Strips,"['non-destructive', 'method', 'accurately', 'determine', 'measure', 'inherent', 'residual', 'stress', 'steel', 'strip', 'surface']"
+Flame Ignition In Flare Stacks,"['reliable', 'flame', 'detection', 'system', 'send', 'alarm', 'soon', 'flames', 'put-off', 'remains', 'reliable', 'ambience', 'top', 'Flare', 'Stack']"
+Alternate Mining Technology - Steep Gradient Mining,"['Develop', 'alternate', 'mining', 'technology', 'produce', 'ores', 'lesser', 'cost', '120m', 'deep', 'opencast', 'mine']"
+Silt Removal from open-cast chromite mine,"['Develop', 'innovative', 'mechanism', 'improve', 'efficiency', 'silt', 'removal', 'open-cast', 'mines']"
+Eliminating remnant coal in wagons after tippling at coal wagon tipplers,"['Solutions', 'sought', 'recover', 'remnant', 'coal', 'wagons', 'post', 'tippling']"
+Arresting  Rail Track Foundation Settlement,"['Solutions', 'sought', 'ensure', 'smooth', 'coke', 'oven', 'battery', 'operation', 'arresting', 'settlement', 'track', 'foundation']"
+Prevention and protection of Steel Structures from extreme levels of corrosion,"['Solutions', 'sought', 'protect', 'steel', 'structures', 'extreme', 'levels', 'corrosion', 'order', 'improve', 'structural', 'integrity']"
+On time communication system to monitor the gap formed between main rail and switch rail,"['innovative', 'solutions', 'real-time', 'assessment', 'gap', 'main', 'rail', 'switch', 'rail']"
+Inspection and condition monitoring of insulated chiller water pipe lines,"['innovative', 'solutions', 'check', 'condition', 'chiller', 'water', 'pipelines']"
+Automated recording and communication of power consumption (kWh) in analog energy meters,"['solutions', 'automate', 'process', 'manual', 'readings', 'bill', 'generation', 'existing', 'analog', 'energy', 'meters']"
